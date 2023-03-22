@@ -1,0 +1,35 @@
+/*************Tag Selectors***************/
+
+body{
+  background-color: black;
+}
+
+p:hover{
+  color: white;
+
+}
+
+h1{
+  color : red;
+}
+/*************Class Selectors*************/
+.NV{
+  background-color: white;
+}
+
+.coke{
+  background-color: red;
+}
+
+.love{
+  color: orange;
+}
+
+.cream{
+  font-size: 150%;
+}
+
+/***************ID Selectors**********/
+#me {
+  color: orange;
+}
